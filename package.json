@@ -1,0 +1,17 @@
+{
+  "name": "technical_test_gradiweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functionality.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^3.3.0",
+    "request": "^2.88.2"
+  }
+}
