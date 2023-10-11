@@ -4,7 +4,8 @@
   "description": "",
   "main": "functionality.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node functionality.js"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +13,16 @@
   "dependencies": {
     "colors": "^1.4.0",
     "node-fetch": "^3.3.0",
-    "request": "^2.88.2"
-  }
+    "request": "^2.88.2",
+    "response": "^0.18.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luifertogo/Gradiweb_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Luifertogo/Gradiweb_test/issues"
+  },
+  "homepage": "https://github.com/Luifertogo/Gradiweb_test#readme"
 }
